@@ -2,10 +2,6 @@
 hola qué tal
 
 
-Star on Github
-         
-teams 1 teams 2 teams 3 teams 4 teams 5 teams 6 teams 7 teams 8
-×
 <section class="fdb-block team-6">
   <div class="container">
     <div class="row text-center justify-content-center">
@@ -19,7 +15,7 @@ teams 1 teams 2 teams 3 teams 4 teams 5 teams 6 teams 7 teams 8
         <img alt="image" class="img-fluid rounded" src="https://media-exp1.licdn.com/dms/image/C5603AQEPQ7OexUdFzw/profile-displayphoto-shrink_100_100/0?e=1601510400&v=beta&t=-BmQOkeTF9vPaOqMchovHw8DWNbqpFICF8QpYyGcjlY">
         <h3><strong>Yara Gómez</strong></h3>
         <p>Position</p>
-        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
+        <p>Estudio IBT.</p>
       </div>
 
       <div class="col-4">
