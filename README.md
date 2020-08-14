@@ -1,12 +1,10 @@
 # propro
-hola qué tal
-
 
 <section class="fdb-block team-6">
   <div class="container">
     <div class="row text-center justify-content-center">
       <div class="col-8">
-        <h1>Team</h1>
+        <h1>                   Team</h1>
       </div>
     </div>
 
