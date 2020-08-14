@@ -17,14 +17,14 @@
       </div>
 
       <div class="col-4">
-        <img alt="image" class="img-fluid rounded" src=" ">
+        <img alt="image" class="img-fluid rounded" src="https://media-exp1.licdn.com/dms/image/C5603AQEPQ7OexUdFzw/profile-displayphoto-shrink_100_100/0?e=1601510400&v=beta&t=-BmQOkeTF9vPaOqMchovHw8DWNbqpFICF8QpYyGcjlY">
         <h3><strong>John Smith</strong></h3>
         <p>Position</p>
         <p>One morning, when Gregor Samsa woke from troubled dreams.</p>
       </div>
 
       <div class="col-4">
-        <img alt="image" class="img-fluid rounded" src=" ">
+        <img alt="image" class="img-fluid rounded" src="https://media-exp1.licdn.com/dms/image/C5603AQEPQ7OexUdFzw/profile-displayphoto-shrink_100_100/0?e=1601510400&v=beta&t=-BmQOkeTF9vPaOqMchovHw8DWNbqpFICF8QpYyGcjlY">
         <h3><strong>John Smith</strong></h3>
         <p>Position</p>
         <p>A small river named Duden flows by their place and supplies it.</p>
